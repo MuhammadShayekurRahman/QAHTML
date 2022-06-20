@@ -1,0 +1,3 @@
+function randomFunction(){
+    alert("BOO!");
+}
